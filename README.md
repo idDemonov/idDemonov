@@ -25,8 +25,8 @@
 - Rx.js, TypeORM, Redis, Git, ... 
 
 ## Напишите мне:
-[<img src="./img/linkedin.png">](https://www.linkedin.com/in/demru/)
-[<img src="./img/telegram.png">](https://t.me/Rompu/)
-[<img src="./img/gmail.png" width="90px" height="90px">](mailto:rustamdemonov@gmail.com)
+[<img src="./img/linkedin.svg">](https://www.linkedin.com/in/demru/)
+[<img src="./img/telegram.svg">](https://t.me/Rompu/)
+[<img src="./img/gmail.svg" width="90px" height="90px">](mailto:rustamdemonov@gmail.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=idDemonov&show_icons=true&count_private=true)  
