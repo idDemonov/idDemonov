@@ -29,4 +29,4 @@
 [<img src="./img/telegram.svg">](https://t.me/Rompu/)
 [<img src="./img/gmail.svg" width="90px" height="90px">](mailto:rustamdemonov@gmail.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=idDemonov&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=idDemonov&show_icons=true&count_private=true&theme=radical)  
