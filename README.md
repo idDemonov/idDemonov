@@ -1,21 +1,32 @@
-### Hi there 👋
+## Hello World 👋👋👋
+### Меня зовут Рустам, и я fullstack разработчик
+Опыт коммерческой разработки с ✨2019✨ года
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idDemonov&show_icons=true&theme=radical)
+Разрабатываю Кроссплатформенные, Оптимизированные, С поддержкой SEO, **Супер-пупер крутые** WEB приложения:bangbang: 
+Увлекаюсь криптовалютой и миром разработки
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idDemonov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## МОЙ СТЕК
 
+#### Fullstack
+- TypeScript
+- GraphQL
+- Rx.js, Sentry, Grafana, Jest, ...
 
-<!--
-**idDemonov/idDemonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Frontend                                       
+- React.js
+- Next.js
+- Redux.js
+- d3, styled-components, lodash, sentry, ...
 
-Here are some ideas to get you started:
+#### Backend
+- Node.js
+- Nest.js
+- SQL (Postgres, ClickHouse)
+- Rx.js, TypeORM, Redis, Git, ... 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Напишите мне:
+[<img src="./img/linkedin.png">](https://www.linkedin.com/in/demru/)
+[<img src="./img/telegram.png">](https://t.me/Rompu/)
+[<img src="./img/gmail.png" width="90px" height="90px">](mailto:rustamdemonov@gmail.com)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=idDemonov&show_icons=true&count_private=true)  
