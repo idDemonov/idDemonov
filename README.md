@@ -22,7 +22,7 @@
 - Node.js
 - Nest.js
 - SQL (Postgres, ClickHouse)
-- Rx.js, TypeORM, Redis, Git, ... 
+- TypeORM, Redis, Git, ... 
 
 ## Напишите мне:
 [<img src="./img/linkedin.svg">](https://www.linkedin.com/in/demru/)
