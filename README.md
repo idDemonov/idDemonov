@@ -10,13 +10,13 @@
 #### Fullstack
 - TypeScript
 - GraphQL
-- Rx.js, Sentry, Grafana, Jest, ...
+- Rx.js, Sentry, Grafana, Jest, lodash, sentry ...
 
 #### Frontend                                       
 - React.js
 - Next.js
 - Redux.js
-- d3, styled-components, lodash, sentry, ...
+- d3, styled-components, ...
 
 #### Backend
 - Node.js
