@@ -25,8 +25,8 @@
 - TypeORM, Redis, Git, ... 
 
 ## Напишите мне:
-[<img src="./img/linkedin.svg">](https://www.linkedin.com/in/demru/)
-[<img src="./img/telegram.svg">](https://t.me/Rompu/)
-[<img src="./img/gmail.svg" width="90px" height="90px">](mailto:rustamdemonov@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rompu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rustamdemonov@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demru/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vusty&show_icons=true&count_private=true&theme=radical)  
