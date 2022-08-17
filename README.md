@@ -64,9 +64,12 @@
 </details>
 
 <details>
-  <summary>💻 Interesting technologies which I hope to learn in the future:</summary>
+  <summary>💻 Interesting technologies that I am learning or going to learn:</summary>
   <br />
   <div>
+    <img
+      src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
+    />
     <img
       src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"
     />
@@ -80,38 +83,31 @@
   <img height="200" src="./static/cat.gif" />
   <img height="200" src="./static/mialll.gif" />
   <img
-    style="margin: 70px 30px 0 0"
-    height="200"
+    align="right"
     src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51"
     alt="Jokes Card"
   />
 </div>
 
 <h3>Contact me 🤙</h3>
-<div style="display: flex">
-  <div>
-    <a href="https://t.me/Rompu">
-      <img
-        src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-      />
-    </a>
-    <a href="mailto:rustamdemonov@gmail.com">
-      <img
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      />
-    </a>
-    <a href="https://www.linkedin.com/in/demru/">
-      <img
-        src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-      />
-    </a>
-  </div>
-  <div style="align-self: center; margin-left: auto">
+<div>
+  <a href="https://t.me/Rompu">
     <img
-      style="margin: 0 30px 0 0"
-      src="https://komarev.com/ghpvc/?username=vusty&color=blueviolet&label=Github Profile Views"
+      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
     />
-  </div>
+  </a>
+  <a href="mailto:rustamdemonov@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/demru/">
+    <img
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <img
+    align="right"
+    src="https://komarev.com/ghpvc/?username=vusty&color=blueviolet&label=Github Profile Views"
+  />
 </div>
-
-
