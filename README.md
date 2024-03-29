@@ -1,10 +1,9 @@
 <h3>Hi there, I'm Rustam 👋🏻</h3>
 
-<details>
-  <summary>
-    👨‍💻 I'm a software developer who likes to learn new languages, libraries and frameworks. I
-    currently have the skills with:
-  </summary>
+
+  <h2>
+   👨‍💻
+  </h2>
   <div>
     <h3>Frontend</h3>
     <div>
@@ -13,12 +12,6 @@
       />
       <img
         src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"
       />
     </div>
     <h3>Backend</h3>
@@ -30,43 +23,11 @@
         src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"
       />
       <img
-        src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"
-      />
-      <img
         src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
       />
-      <img
-        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-      />
     </div>
-    <h3>Share/Other</h3>
-    <div>
-      <img
-        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
-      />
-    </div>
-  </div>
-</details>
-
-<details>
-  <summary>💻 Interesting technologies that I am learning or going to learn:</summary>
-  <br />
-  <div>
+   <h3>Other</h3>
+   <div>
     <img
       src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
     />
@@ -77,7 +38,8 @@
       src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"
     />
   </div>
-</details>
+  </div>
+
 
 <div style="display: flex; justify-content: space-between">
   <img height="200" src="./static/cat.gif" />
